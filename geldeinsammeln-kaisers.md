@@ -3,7 +3,7 @@
 |Kirsi|35|Paypal||
 |Christoph & Ruth|70|Wero||
 |Rita||||
-|Christoph & Karin||||
+|Christoph & Karin|70|Paypal||
 |Frank & Ruth||||
 |Ali ||||
 |Ralf & Almuth||||
