@@ -6,10 +6,10 @@
 |Christoph & Karin|70|Paypal||
 |Frank & Ruth||||
 |Ali ||||
-|Ralf & Almuth||||
+|Ralf & Almuth|70|Bar||
 |Crissi & Mirko ||||
 |Gaby & Uwe||||
 |Klaus & Marianne|70|Bar||
-|Silke & Manni||||
+|Silke & Manni|70|Paypal||
 |Silke & Jürgen||||
 |Ralf||||
