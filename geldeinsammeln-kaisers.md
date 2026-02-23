@@ -5,7 +5,7 @@
 |Rita||||
 |Christoph & Karin|70|Paypal||
 |Frank & Ruth||||
-|Ali ||||
+|Ali |35|Bar||
 |Ralf & Almuth|70|Bar||
 |Crissi & Mirko ||||
 |Gaby & Uwe||||
