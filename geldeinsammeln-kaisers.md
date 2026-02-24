@@ -4,7 +4,7 @@
 |Christoph & Ruth|70|Wero||
 |Rita||||
 |Christoph & Karin|70|Paypal||
-|Frank & Ruth||||
+|Frank & Ruth|70|Paypal||
 |Ali |35|Bar||
 |Ralf & Almuth|70|Bar||
 |Crissi & Mirko |70|Paypal||
