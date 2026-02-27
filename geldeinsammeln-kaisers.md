@@ -2,7 +2,7 @@
 |-----|----|----|----|
 |Kirsi|35|Paypal||
 |Christoph & Ruth|70|Wero||
-|Rita||||
+|Rita|5|Paypal||
 |Christoph & Karin|70|Paypal||
 |Frank & Ruth|70|Paypal||
 |Ali |35|Bar||
