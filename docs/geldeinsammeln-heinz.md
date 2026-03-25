@@ -11,8 +11,8 @@
 | Berthold Bültgerds | 10 | Bar, ausgelegt von Jürgen |
 
 Es fehlen:
-* Dirk Schnermann
-* Matthias Spinne
-* Silke Stein
-* Klaus Scho-Leutermann
-* Eduard Ulmer
+* Dirk S. 
+* Matthias
+* Silke
+* Klaus
+* Eduard
