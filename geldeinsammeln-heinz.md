@@ -8,10 +8,10 @@
 | Christoph | 10 | Paypal |
 | Klaus-Dieter | 10 | Paypal |
 | Jürgen | 10 | ;-) |
+| Berthold Bültgerds | 10 | Bar, ausgelegt von Jürgen |
 
 Es fehlen:
 * Dirk Schnermann
-* Berthold Bültgerds
 * Matthias Spinne
 * Silke Stein
 * Klaus Scho-Leutermann
