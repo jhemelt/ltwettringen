@@ -1,3 +1,6 @@
+on:
+  push:
+    branches: [ main ]
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -7,7 +10,7 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         files: |-
-          geldeinsammeln-*.md
+          geldeinsammeln-heinz.md
     - run: cp ./images ./dist/images/
     - uses: actions/upload-pages-artifact@v3
       with:
