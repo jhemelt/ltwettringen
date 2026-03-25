@@ -2,7 +2,7 @@
 
 |Nr.| Name | Vorname | Geburtsjahr | Distanz |
 |---|------|---------|--------------|---------|
-|1| Hemelt|Jürgen|25.05.1973|24,7|
+|1| Hemelt|Jürgen|1973|24,7|
 |2| Scho-Leutermann|Klaus||24,7|
 |3| Raing|Norbert||24,7|
 |4| Koop|Linda||1985|

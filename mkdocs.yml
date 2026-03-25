@@ -1,6 +1,0 @@
-site_name: LT Wettringen
-theme:
-  name: material
-nav:
-  - Geldeinsammeln Heinz: geldeinsammeln-heinz.md
-  - Geldeinsammeln Kaisers: geldeinsammeln-kaisers.md
