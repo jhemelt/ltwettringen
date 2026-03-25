@@ -10,7 +10,7 @@ jobs:
       with:
         title: "Lauftreff Wettringen"
         token: ${{ secrets.GITHUB_TOKEN }}
-        files: 
+        files:  |
           geldeinsammeln-heinz.md
           geldeinsammeln-kaisers.md
     - run: cp -r ./images ./dist/images/
