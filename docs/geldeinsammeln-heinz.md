@@ -1,7 +1,7 @@
 | Nummer | Name | Betrag | Methode |
 |--------|------|--------|---------|
 | 1 | Frank | 10 | Paypal |
-| 2 | H-G | 10 | We0ro |
+| 2 | H-G | 10 | Wero |
 | 3 | Markus | 10 | Wero |
 | 4 | Angelika | 10 | Bar |
 | 5 | Helmut | 10 | Paypal via HG |
