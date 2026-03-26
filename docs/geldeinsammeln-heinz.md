@@ -11,7 +11,7 @@
 | 9 | Berthold | 10 | Bar, ausgelegt von Jürgen |
 | 10 | Silke | 10 | Paypal |
 | 11 | Klaus | 10 | Bar |
-| 12 | Anette | 10 | Bar, bringt sie Montag mit |
+| 12 | Annette | 10 | Bar, bringt sie Montag mit |
 
 Es fehlen:
 * Dirk S. 
