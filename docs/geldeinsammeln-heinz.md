@@ -8,11 +8,11 @@
 | Christoph | 10 | Paypal |
 | Klaus-Dieter | 10 | Paypal |
 | Jürgen | 10 | ;-) |
-| Berthold Bültgerds | 10 | Bar, ausgelegt von Jürgen |
+| Berthold | 10 | Bar, ausgelegt von Jürgen |
+| Silke | 10 | Paypal |
 
 Es fehlen:
 * Dirk S. 
 * Matthias
-* Silke
 * Klaus
 * Eduard
