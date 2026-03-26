@@ -10,9 +10,9 @@
 | Jürgen | 10 | ;-) |
 | Berthold | 10 | Bar, ausgelegt von Jürgen |
 | Silke | 10 | Paypal |
+| Klaus | 10 | Bar |
 
 Es fehlen:
 * Dirk S. 
 * Matthias
-* Klaus
 * Eduard
