@@ -1,16 +1,16 @@
-| Name | Betrag | Methode |
-|------|--------|---------|
-| Frank | 10 | Paypal |
-| H-G | 10 | Wero |
-| Markus | 10 | Wero |
-| Angelika | 10 | Bar |
-| Helmut | 10 | Paypal via HG |
-| Christoph | 10 | Paypal |
-| Klaus-Dieter | 10 | Paypal |
-| Jürgen | 10 | ;-) |
-| Berthold | 10 | Bar, ausgelegt von Jürgen |
-| Silke | 10 | Paypal |
-| Klaus | 10 | Bar |
+| Nummer | Name | Betrag | Methode |
+|--------|------|--------|---------|
+| 1 | Frank | 10 | Paypal |
+| 2 | H-G | 10 | We0ro |
+| 3 | Markus | 10 | Wero |
+| 4 | Angelika | 10 | Bar |
+| 5 | Helmut | 10 | Paypal via HG |
+| 6 | Christoph | 10 | Paypal |
+| 7 | Klaus-Dieter | 10 | Paypal |
+| 8 | Jürgen | 10 | ;-) |
+| 9 | Berthold | 10 | Bar, ausgelegt von Jürgen |
+| 10 | Silke | 10 | Paypal |
+| 11 | Klaus | 10 | Bar |
 
 Es fehlen:
 * Dirk S. 
